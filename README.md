@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 🔭 I’m currently working on ...
+<p align='left'>I'm on Github!</p><p align='left'> You can view my resume <a href='no cv link yet ' target=_blank><u>here</u>.</a></p>
 -->
 
 - 🌱 I’m currently learning Causal Inference, Big Data on clouds...
@@ -16,7 +17,9 @@ Here are some ideas to get you started:
 - 🎓 I'm Doctor Cat! Ph.D Biochemistry/Computational Biophysics
 
  
-[![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/) [![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) [![Twitter Badge](https://img.shields.io/badge/-Ylemental-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ylemental/)](https://www.twitter.com/Ylemental/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) <p align='left'>I'm on Github!</p><p align='left'> You can view my resume <a href='no cv link yet ' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/) [![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) [![Twitter Badge](https://img.shields.io/badge/-Ylemental-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ylemental/)](https://www.twitter.com/Ylemental/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) 
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CatChenal alt=CatChenal /> </p>
 
