@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - 🎓 I'm Doctor Cat! Ph.D Biochemistry/Computational Biophysics
 
-
-[![Gmail Badge](https://img.shields.io/badge/-catchenal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:catchenal@gmail.com)](mailto:catchenal@gmail.com) 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/) [![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) [![Twitter Badge](https://img.shields.io/badge/-Ylemental-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ylemental/)](https://www.twitter.com/Ylemental/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) <p align='left'>I'm on Github!</p><p align='left'> You can view my resume <a href='no cv link yet ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CatChenal alt=CatChenal /> </p>
