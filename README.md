@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Causal Inference, Big Data on clouds...
 - 😄 Pronouns: she/her
-- :graduation_cap:
 - 🎓 I'm Doctor Cat! Ph.D Biochemistry/Computational Biophysics
 
 
