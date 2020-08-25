@@ -59,10 +59,10 @@ _**Note** on "Most Used Languages" listed below: it's what Github determined loo
 
 
 ---
-:TODO:
-* Uploads:
+#### TODO
+* Uploads:  
 [ ] panel & other dashbords  
 [ ] mirrored bar plot  
 [ ] bar-chase gif  
-* Package
+* Package  
 [ ] LGP curve  
