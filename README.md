@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 _**Note** on "Most Used Languages" listed below: it's what Github determined looking (scrapping) my repositories, which include forked ones. I've never used Smarty!_ 
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CatChenal alt=CatChenal /> </p>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true&hide=commits)](https://github.com/CatChenal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)](https://github.com/CatChenal/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)
 
 ---
 
