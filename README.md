@@ -29,6 +29,10 @@ _**Note** on "Most Used Languages" listed below: it's what Github determined loo
 [![Github stats](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)
 
+* Test broken links:
+<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact">Top Languages</a>
+</div>
 ---
 
 # Data Visualization
