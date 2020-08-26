@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) 
 [![Profile views](https://komarev.com/ghpvc/?username=CatChenal)](https://komarev.com/ghpvc/?username=CatChenal)
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=CatChenal alt=CatChenal /> </p>
 <!--
 ## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=CatChenal alt=CatChenal /> </p>
+
 _**Note** on "Most Used Languages" listed below: it's what Github determined looking (scrapping) my repositories, which include forked ones. I've never used Smarty!_ 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)
