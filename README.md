@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 
  
 [![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/) [![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) 
-[![Twitter Badge](https://img.shields.io/badge/-Ylemental-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ylemental/)](https://www.twitter.com/Ylemental/) 
+[![Twitter Badge](https://img.shields.io/badge/-Y-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Y/)](https://www.twitter.com/Ylemental/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) 
-[![Profile views](https://komarev.com/ghpvc/?username=CatChenal)](https://komarev.com/ghpvc/?username=CatChenal)
 
 <!--
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=CatChenal alt=CatChenal /> </p>
-
+[![Profile views](https://komarev.com/ghpvc/?username=CatChenal)](https://komarev.com/ghpvc/?username=CatChenal)
 _**Note** on "Most Used Languages" listed below: it's what Github determined looking (scrapping) my repositories, which include forked ones. I've never used Smarty!_ 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)
