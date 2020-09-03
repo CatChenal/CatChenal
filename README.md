@@ -41,6 +41,7 @@ _**Note** on "Most Used Languages" listed below: it's what Github determined loo
 
 # Data Visualization
 
+### [Mirrored bar plots for paired series](https://github.com/CatChenal/Mirrored_Barplots/README.md)
 ### [Modified Yellowbrick report for evaluation of ML Models](https://github.com/CatChenal/Yellowbricks/README.md)
 ### [Lorenz curve with Gini coefficient](https://github.com/CatChenal/Lorenz_Gini_P_curve/README.md)
 ### [Using Bokeh (example using the Iris dataset)](https://github.com/CatChenal/Bokeh_of_Irises/README.md)
@@ -61,8 +62,9 @@ _**Note** on "Most Used Languages" listed below: it's what Github determined loo
 ---
 #### TODO
 * Uploads:  
-[ ] panel & other dashbords  
-[ ] mirrored bar plot  
-[ ] bar-chase gif  
+ [ ] panel & other dashbords  
+ [x] mirrored bar plot  
+ [ ] bar-chase gif  
 * Package  
-[ ] LGP curve  
+ [ ] LGP curve 
+ [ ] mirrored bar plot  
