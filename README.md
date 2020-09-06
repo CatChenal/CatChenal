@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🎓 I'm Doctor Cat! Ph.D Biochemistry/Computational Biophysics
 
  
-[![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/) [![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) 
+[![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/)[![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) 
 [![Twitter Badge](https://img.shields.io/badge/-Y-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Y/)](https://www.twitter.com/Ylemental/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) 
+[![Portfolio Badge](https://img.shields.io/badge/blog-pages-blue?style=flat&link=catchenal@io/)](https://catchenal.github.io/) 
 
 ---
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### [Mirrored bar plots for paired series](https://github.com/CatChenal/Mirrored_Barplots/blob/master/README.md)
 ### [Modified Yellowbrick report for evaluation of ML Models](https://github.com/CatChenal/Yellowbricks/blob/master/README.md)
 ### [Lorenz curve with Gini coefficient](https://github.com/CatChenal/Lorenz_Gini_P_curve/blob/master/README.md)
-### [Embedding bokeh plots into jinja templates)](https://github.com/CatChenal/Bokeh_of_Irises/blob/master/README.md)
+### [Embedding bokeh plots into jinja templates](https://github.com/CatChenal/Bokeh_of_Irises/blob/master/README.md)
 ### [Earlier visualizations](https://github.com/CatChenal/DataVis/blob/master/README.md)
 
 # Data Science
