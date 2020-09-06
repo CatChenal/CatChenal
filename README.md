@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 <p align='left'>I'm on Github!</p><p align='left'> You can view my resume <a href='no cv link yet ' target=_blank><u>here</u>.</a></p>
 -->
-
+- ✨ Learn + make => know better
 - 🌱 I’m currently learning Causal Inference, Big Data on clouds...
 - 😄 Pronouns: she/her
 - 🎓 I'm Doctor Cat! Ph.D Biochemistry/Computational Biophysics
@@ -21,42 +21,26 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Y-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Y/)](https://www.twitter.com/Ylemental/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=catchenal@io/)](catchenal@io/) 
 
-<!--
-## Some of my Github Stats
-[![Profile views](https://komarev.com/ghpvc/?username=CatChenal)](https://komarev.com/ghpvc/?username=CatChenal)
-_**Note** on "Most Used Languages" listed below: it's what Github determined looking (scrapping) my repositories, which include forked ones. I've never used Smarty!_ 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact)
-
-* Alternate links if above not rendered due to [issue 325](https://github.com/anuraghazra/github-readme-stats/issues/325): 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=CatChenal&show_icons=true">Github Stats</a>
-</div>
-<div> 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CatChenal&layout=compact">Top Languages</a>
-</div>
--->
 ---
 
 # Data Visualization
 
-### [Mirrored bar plots for paired series](https://github.com/CatChenal/Mirrored_Barplots/README.md)
-### [Modified Yellowbrick report for evaluation of ML Models](https://github.com/CatChenal/Yellowbricks/README.md)
-### [Lorenz curve with Gini coefficient](https://github.com/CatChenal/Lorenz_Gini_P_curve/README.md)
-### [Using Bokeh (example using the Iris dataset)](https://github.com/CatChenal/Bokeh_of_Irises/README.md)
-### [Earlier visualizations](https://github.com/CatChenal/DataVis/README.md)
+### [Mirrored bar plots for paired series](https://github.com/CatChenal/Mirrored_Barplots/blob/master/README.md)
+### [Modified Yellowbrick report for evaluation of ML Models](https://github.com/CatChenal/Yellowbricks/blob/master/README.md)
+### [Lorenz curve with Gini coefficient](https://github.com/CatChenal/Lorenz_Gini_P_curve/blob/master/README.md)
+### [Embedding bokeh plots into jinja templates)](https://github.com/CatChenal/Bokeh_of_Irises/blob/master/README.md)
+### [Earlier visualizations](https://github.com/CatChenal/DataVis/blob/master/README.md)
 
 # Data Science
-### [Notes on Statistics](https://github.com/CatChenal/Statistics-in-Python)
-### [Geocoders Comparison](https://github.com/CatChenal/Geocoders_Comparison)
-### [OSCI rankings with company size](https://github.com/CatChenal/OSCI_Rankings)
-### [Examples using Socrata API for public data](https://github.com/CatChenal/NYCData)
+### [Notes on Statistics](https://github.com/CatChenal/Statistics-in-Python/blob/master/README.md)
+### [Geocoders Comparison](https://github.com/CatChenal/Geocoders_Comparison/blob/master/README.md)
+### [OSCI rankings with company size](https://github.com/CatChenal/OSCI_Rankings/blob/master/README.md)
+### [Examples using Socrata API for public data](https://github.com/CatChenal/NYCData/blob/master/README.md)
 
 
 # Other
-### [Tips and tricks for Jupyter/JupyterLab notebooks](https://github.com/CatChenal/Jupyter_Sphere)
-### [Unix timestamp conversion](https://github.com/CatChenal/convert_chrome_time)
+### [Tips and tricks for Jupyter/JupyterLab notebooks](https://github.com/CatChenal/Jupyter_Sphere/blob/master/README.md)
+### [Unix timestamp conversion](https://github.com/CatChenal/convert_chrome_time/blob/master/README.md)
 
 
 ---
