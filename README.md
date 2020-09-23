@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ---
 
 # Data Visualization
+### ['Bar chasing': A bad animation example](https://github.com/CatChenal/Bar_Chasing/blob/master/README.md)
 ### [Mirrored bar plots for paired series](https://github.com/CatChenal/Mirrored_Barplots/blob/master/README.md)
 ### [Modified Yellowbrick report for evaluation of ML Models](https://github.com/CatChenal/Yellowbricks/blob/master/README.md)
 ### [Lorenz curve with Gini coefficient](https://github.com/CatChenal/Lorenz_Gini_P_curve/blob/master/README.md)
