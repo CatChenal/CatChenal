@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 
 ---
 
+# Data Science
+### [Process automation demo: Data Umbrella EventManagement](https://github.com/CatChenal/DU-event-transcript-demo/tree/main/resources/EventManagement/master/README.md)
+![DU EDIT page](./images/Edit_page.png)
+### [Linear Programming: Feasible Region](https://github.com/CatChenal/Feasible_Region/master/README.md)
+### [Notes on Statistics](https://github.com/CatChenal/Statistics-in-Python/blob/master/README.md)
+### [Geocoders Comparison](https://github.com/CatChenal/Geocoders_Comparison/blob/master/README.md)
+### [OSCI rankings with company size](https://github.com/CatChenal/OSCI_Rankings/blob/master/README.md)
+### [Examples using Socrata API for public data](https://github.com/CatChenal/NYCData/blob/master/README.md)
+
 # Data Visualization
 ### ['Bar chasing': A bad animation example](https://github.com/CatChenal/Bar_Chasing/blob/master/README.md)
 ### [Mirrored bar plots for paired series](https://github.com/CatChenal/Mirrored_Barplots/blob/master/README.md)
@@ -31,24 +40,6 @@ Here are some ideas to get you started:
 ### [Embedding bokeh plots into jinja templates](https://github.com/CatChenal/Bokeh_of_Irises/blob/master/README.md)
 ### [Earlier visualizations](https://github.com/CatChenal/DataVis/blob/master/README.md)
 
-# Data Science
-### [Linear Programming: Feasible Region](https://github.com/CatChenal/Feasible_Region/master/README.md)
-### [Notes on Statistics](https://github.com/CatChenal/Statistics-in-Python/blob/master/README.md)
-### [Geocoders Comparison](https://github.com/CatChenal/Geocoders_Comparison/blob/master/README.md)
-### [OSCI rankings with company size](https://github.com/CatChenal/OSCI_Rankings/blob/master/README.md)
-### [Examples using Socrata API for public data](https://github.com/CatChenal/NYCData/blob/master/README.md)
-
 # Other
 ### [Tips and tricks about Jupyter/JupyterLab notebooks (Recipes and Lab Templates)](https://github.com/CatChenal/Jupyter_Sphere/blob/master/README.md)
 ### [Unix timestamp conversion](https://github.com/CatChenal/convert_chrome_time/blob/master/README.md)
-
-
----
-#### TODO
-* Uploads:  
- [ ] panel & other dashbords  
- [x] mirrored bar plot  
- [ ] bar-chase gif  
-* Package  
- [ ] LGP curve 
- [ ] mirrored bar plot  
