@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ---
 
 # Data Science
-### [Process automation demo: Data Umbrella EventManagement](https://github.com/CatChenal/DU-event-transcript-demo/tree/main/resources/EventManagement/master/README.md)
+### [Process automation demo: Data Umbrella EventManagement](https://github.com/CatChenal/DU-event-transcript-demo/blob/main/README.md)
 ![DU EDIT page](./images/Edit_page.png)
-### [Linear Programming: Feasible Region](https://github.com/CatChenal/Feasible_Region/master/README.md)
+### [Linear Programming: Feasible Region](https://github.com/CatChenal/Feasible_Region/blob/master/README.md)
 ### [Notes on Statistics](https://github.com/CatChenal/Statistics-in-Python/blob/master/README.md)
 ### [Geocoders Comparison](https://github.com/CatChenal/Geocoders_Comparison/blob/master/README.md)
 ### [OSCI rankings with company size](https://github.com/CatChenal/OSCI_Rankings/blob/master/README.md)
