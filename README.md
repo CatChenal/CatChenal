@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Y-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Y/)](https://www.twitter.com/Ylemental/) 
 [![Portfolio Badge](https://img.shields.io/badge/blog-pages-blue?style=flat&link=catchenal@io/)](https://catchenal.github.io/) 
 
+[![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 # Data Science
