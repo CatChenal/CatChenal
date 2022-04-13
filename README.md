@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 ### [Earlier visualizations](https://github.com/CatChenal/DataVis/blob/master/README.md)
 
 # Other
+### [Fun image processing!](https://github.com/CatChenal/aquarelle) :NEW:  
 ### [Tips and tricks about Jupyter/JupyterLab notebooks (Recipes and Lab Templates)](https://github.com/CatChenal/Jupyter_Sphere/blob/master/README.md)
 ### [Unix timestamp conversion](https://github.com/CatChenal/convert_chrome_time/blob/master/README.md)
