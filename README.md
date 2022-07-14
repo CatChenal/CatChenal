@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 <p align='left'>I'm on Github!</p><p align='left'> You can view my resume <a href='no cv link yet ' target=_blank><u>here</u>.</a></p>
 -->
+
 - ✨ Learn + make => know better
 - 🌱 I’m currently learning Causal Inference, Big Data on Clouds...
 - 😄 Pronouns: she/her
@@ -22,7 +23,9 @@ Here are some ideas to get you started:
 [![Portfolio Badge](https://img.shields.io/badge/blog-pages-blue?style=flat&link=catchenal@io/)](https://catchenal.github.io/) 
 
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+![Cat's Github details beta](https://metrics.lecoq.io/insights/CatChenal)
+---
 ---
 
 # Data Science
