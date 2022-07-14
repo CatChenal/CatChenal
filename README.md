@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
-![Cat's Github details beta](https://metrics.lecoq.io/insights/CatChenal)
+### test iframe
+<iframe src="https://metrics.lecoq.io/insights/CatChenal"
+        title="Cat's Github details"></iframe>
+---
+<!-- Metrics from a page, not svg -->
+[Cat's Github details](https://metrics.lecoq.io/insights/CatChenal)
+
 ---
 ---
 
