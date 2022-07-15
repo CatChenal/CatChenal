@@ -24,16 +24,7 @@ Here are some ideas to get you started:
 
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 --- 
-<!-- Metrics from a page, not svg
-[Cat's Github details](https://metrics.lecoq.io/insights/CatChenal)
 ![Metrics](/github-metrics.svg)
- -->
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
-
-![Metrics](/github-metrics.svg)
-
----
 ---
 
 # Data Science
