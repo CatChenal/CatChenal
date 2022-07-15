@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 [![Portfolio Badge](https://img.shields.io/badge/blog-pages-blue?style=flat&link=catchenal@io/)](https://catchenal.github.io/) 
 
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
----
-<!-- Metrics from a page, not svg -->
+--- 
+<!-- Metrics from a page, not svg
 [Cat's Github details](https://metrics.lecoq.io/insights/CatChenal)
+![Metrics](/github-metrics.svg)
+ -->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 ---
 ---
 
