@@ -23,7 +23,7 @@ jobs:
           plugin_stargazers: yes
           plugin_achievements: yes
           plugin_languages: yes
-          plugin_languages_ignored: less, scss, sass
+          plugin_languages_ignored: c, smarty, Javascript, less, scss, sass
           plugin_languages_skipped: lowlighter/metrics
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
