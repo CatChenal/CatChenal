@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Cat Chenal
 
 <!--
-**CatChenal/CatChenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CatChenal/CatChenal** is a ✨ _special_ ✨ repository because its `README.md` (this) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 --- 
 ![Metrics](/github-metrics.svg)
----
+--- 
 
 # Data Science
 ### [Process automation demo: Data Umbrella EventManagement](https://github.com/CatChenal/DU-event-transcript-demo/blob/main/README.md)
