@@ -29,7 +29,7 @@ Readme stats issue: anuraghazra/github-readme-stats#2415
  -->
 ![Cat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CatChenal&count_private=true)
 
-User stats aggregated & displayed thanks to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [@rickstaa's vercel host]https://github.com/rickstaa).
+User stats aggregated & displayed thanks to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [@rickstaa's vercel host](https://github.com/rickstaa).
 
 <!-- was:
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
