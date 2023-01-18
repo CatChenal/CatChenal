@@ -22,7 +22,19 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Y-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Y/)](https://www.twitter.com/Ylemental/) 
 [![Portfolio Badge](https://img.shields.io/badge/blog-pages-blue?style=flat&link=catchenal@io/)](https://catchenal.github.io/) 
 
+
+<!-- updated 1/18/23:
+[Fix] fix github rate limiter bug for readme stats
+Readme stats issue: anuraghazra/github-readme-stats#2415
+ -->
+![Cat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CatChenal&count_private=true)
+
+User stats aggregated & displayed thanks to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [@rickstaa's vercel host]https://github.com/rickstaa).
+
+<!-- was:
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 --- 
 ![Metrics](/github-metrics.svg)
 --- 
