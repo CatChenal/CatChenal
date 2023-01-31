@@ -38,7 +38,8 @@ User stats aggregated & displayed thanks to [@anuraghazra](https://github.com/an
 --- 
 ![Metrics](/github-metrics.svg)
 --- 
-
+# DevOps
+### ["Quick-clone" a conda env with `new_conda_env` - WIP](https://github.com/CatChenal/new_conda_env/blob/main/README.md)
 # Data Science
 ### [Process automation demo: Data Umbrella EventManagement](https://github.com/CatChenal/DU-event-transcript-demo/blob/main/README.md)
 ![DU EDIT page](./images/Edit_page.png)
