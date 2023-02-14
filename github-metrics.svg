@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -138,20 +138,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 240mb of code in 5882 edited files across 377 commits</small>
+                <small>estimation from 240mb of code in 5887 edited files across 378 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.23280946037903" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="285.23280946037903" y="0" width="168.03384737106236" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.26665683144137" y="0" width="2.529792803809934" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.79644963525135" y="0" width="1.2589897282236335" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.055439363475" y="0" width="1.1250771893199831" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.180516552795" y="0" width="0.9781545479434294" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.15867110073845" y="0" width="0.7776058799605798" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="459.936276980699" y="0" width="0.0637230193010612" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.22544993781827" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="285.22544993781827" y="0" width="168.02688732531286" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.25233726313115" y="0" width="2.5442864852724765" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.7966237484036" y="0" width="1.2589375802412852" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.0555613286449" y="0" width="1.1250305880617728" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.1805919167067" y="0" width="0.9781140322942891" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.158705949001" y="0" width="0.7775736711372726" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="459.93627962013824" y="0" width="0.06372037986182576" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -163,7 +163,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>86.4k lines</div>
+                                <div>86.5k lines</div>
                                 <div>85 MB</div>
                             </small>
                         </div>
@@ -175,8 +175,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>23.1k lines</div>
-                                <div>754 kB</div>
+                                <div>23.2k lines</div>
+                                <div>759 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -270,12 +270,6 @@
                             <div class="entry">
                                 <span class="value">7</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                31
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 1
                                 <div class="bottom">Feb.</div>
                             </div>
@@ -338,6 +332,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 13
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                14
                             </div>
                         </div>
                     </section>
@@ -347,12 +346,6 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                31
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 1
                                 <div class="bottom">Feb.</div>
                             </div>
@@ -415,6 +408,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 13
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                14
                             </div>
                         </div>
                     </section>
@@ -471,7 +469,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.17898699520875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.221423682409316 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -944,7 +942,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.31m out of 376m repositories</span>
+                                    <span class="gh">ranked 4.41m out of 376m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
