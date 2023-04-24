@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🎓 I'm Doctor Cat! Ph.D Biochemistry/Computational Biophysics
 
  
-[![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/)[![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/) 
-[![Twitter Badge](https://img.shields.io/badge/-Y-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Y/)](https://www.twitter.com/Ylemental/) 
+[![Linkedin Badge](https://img.shields.io/badge/-catchenal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catchenal/)](https://www.linkedin.com/in/catchenal/)[![Github Badge](https://img.shields.io/badge/-CatChenal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CatChenal/)](https://www.github.com/CatChenal/)  
 [![Portfolio Badge](https://img.shields.io/badge/blog-pages-blue?style=flat&link=catchenal@io/)](https://catchenal.github.io/) 
 
 
