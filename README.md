@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <!-- updated 1/18/23:
 [Fix] fix github rate limiter bug for readme stats
 Readme stats issue: anuraghazra/github-readme-stats#2415
- -->
 ![Cat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CatChenal&count_private=true)
+ -->
+
 
 <!-- was:
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatChenal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
